@@ -1,0 +1,20 @@
+@import "./variables/variables";
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("/static/fonts/Montserrat-ExtraBold.ttf");
+  src: url("/static/fonts/Montserrat-SemiBold.ttf");
+  src: url("/static/fonts/Montserrat-Regular.ttf");
+}
+
+body {
+  font-family: "Montserrat";
+}
+
+.app {
+  font-family: "Montserrat";
+}
+
+h1 {
+  font-size: 56px;
+}
